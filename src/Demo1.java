@@ -9,6 +9,7 @@ public class Demo1 {
 		System.out.println("patriotism");
 		System.out.println("happyyyy");
 		System.out.println(" Apple");
+		System.out.println(" Applddde");
 		
 	}
 
