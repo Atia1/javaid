@@ -8,7 +8,7 @@ public class Demo1 {
 		System.out.println(" hii hub");
 		System.out.println("patriotism");
 		System.out.println("happyyyy");
-		System.out.println(" samsung hub");
+		System.out.println(" Apple");
 		
 	}
 
