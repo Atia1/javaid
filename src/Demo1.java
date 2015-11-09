@@ -11,6 +11,8 @@ public class Demo1 {
 		System.out.println(" Apple");
 		System.out.println(" Applddde");
 		
+		System.out.println(" hiiiii");
+		System.out.println(" Aniini");
 	}
 
 }
